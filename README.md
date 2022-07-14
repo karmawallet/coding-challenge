@@ -1,4 +1,4 @@
-# Coding Challenge
+# Karma Wallet Coding Challenge
 
 ## Getting Started
 - Create a new repo on github named `kw-coding-challenge-response`
