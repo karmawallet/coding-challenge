@@ -1,7 +1,7 @@
 # Karma Wallet Coding Challenge
 
 ## Getting Started
-- Create a new repo on github named `kw-coding-challenge-response`
+- Create a new public repo on github named `kw-coding-challenge-response`. You can proceed with the default options selected.
 - Locally, create a new directory on your computer for this coding challenge
 - Run `git clone git@github.com:karmawallet/coding-challenge.git`. This will clone down the coding challenge.
 - Once you have the locally cloned repo for `coding-challenge`, cd into the repo directory and run `git remote set-url origin git@github.com/yourname/kw-coding-challenge-response.git`. This will set the upstream for your code to the repo you created. 
