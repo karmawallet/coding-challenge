@@ -16,6 +16,7 @@ export const Directions = () => {
             <li>Clicking on a tab should take the user between the two views.</li>
             <li>Amounts should be rounded to two decimal places like a dollar amount.</li>
             <li>The emoji should represent the rating of the company, negative uses the emoji-negative svg, neutral uses the emoji-neutral svg</li>
+            <li>You do not need to worry about using the font families seen in the image, but please try to style the component in a similar manner.</li>
             <li>If you have any questions please reach out to sara@theimpactkarma.com</li>
           </ol>
         </div>
