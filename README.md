@@ -1,22 +1,25 @@
 # Coding Challenge
 
-- Clone this repo
-- Run `npm install`
-- To spin it up run `npm start`
+## Getting Started
+- Create a new repo on github named `kw-coding-challenge-response`
+- Locally, create a new directory on your computer for this coding challenge
+- Run `git clone git@github.com:karmawallet/coding-challenge.git`. This will clone down the coding challenge.
+- Once you have the locally cloned repo for `coding-challenge`, cd into the repo directory and run `git remote set-url origin git@github.com/yourname/kw-coding-challenge-response.git`. This will set the upstream for your code to the repo you created. 
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Running the Code
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Once you've created your remote repo copied from this repo, run `npm install`
+- To spin it up run `npm start`, this should open up your browser. If it does not you can navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
+- When you want to commit your code to your repo, run:
+  - `git add`
+  - `git commit -m 'your commit message text`
+  - `git push`
 
 ## Upon Completion
 
-When you have finished the exercise, please create a new Github public repo with your code, following the below directions:
+When you have finished the exercise, please send a link to your repo to sara@theimpactkarma.com and john@theimpactkarma.com
 
-1) Make a new repo on your Github account called `kw-coding-challenge-response`.
-2) On the locally cloned repo for `coding-challenge, run `git remote set-url origin git@github.com/yourname/kw-coding-challenge-response.get
-3) 
-Push it.
-and send the link to sara@theimpactkarma.com and john@theimpactkarma.com. Information on how to create a new repo from an existing repo can be found here: 
+## Questions?
 
+If you have any questions please email sara@theimpactkarma.com
 
