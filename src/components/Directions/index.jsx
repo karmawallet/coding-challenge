@@ -10,7 +10,8 @@ export const Directions = () => {
         <div className='directions-text'>
           <ol>
             <li>In this exercise, you will be recreating the table in the image. Place all of your code inside of the Lower Impact Purchases component.</li>
-            <li>In the data.js file in the LowerImpactPurchases folder, you should see all the data you need to create the 30 days and one year tabs.</li>
+            <li>In the data.js file in the LowerImpactPurchases folder, you should see all the data you need to create the 30 days and last 12 months tabs.</li>
+            <li>The subtext below the header should dynamically display the number of rows in each table.</li>
             <li>Clicking on a row should take the user to the website for the company.</li>
             <li>Clicking on a tab should take the user between the two views.</li>
             <li>Amounts should be rounded to two decimal places like a dollar amount.</li>
