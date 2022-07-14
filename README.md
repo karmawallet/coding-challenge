@@ -12,7 +12,7 @@
 - To spin up the code, run `npm start`, this should open up your browser. If it does not you can navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
 - When you want to commit your code to your repo, run:
   - `git add`
-  - `git commit -m 'your commit message text`
+  - `git commit -m 'your commit message text'`
   - `git push`
 
 ## Upon Completion
